@@ -14,7 +14,6 @@
 <img align="left" alt="Spotify" width="26px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/spotify.png" />
 <img align="left" alt="Udemy" width="13px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/udemy.png" />
 <img align="left" alt="Photoshop" width="26px" src="https://camo.githubusercontent.com/faa8dd3f847f21af47145d5fa670c0d7487955437abc31d39ad370c330c5d97a/68747470733a2f2f7777772e61646f62652e636f6d2f636f6e74656e742f64616d2f63632f75732f656e2f70726f64756374732f63636f766572766965772f70735f63635f6170705f5247422e737667" />
-<img align="left" alt="Lightroom" width="26px" src="https://static-00.iconduck.com/assets.00/adobe-lightroom-icon-512x512-r5i43yti.png" />
 
 <br />
 
