@@ -10,7 +10,7 @@
 <img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/discord.png" />
 <img align="left" alt="Steam" width="26px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/steam.png" />
 <img align="left" alt="Minecraft" width="26px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/minecraft.png" />
-<img align="left" alt="Roblox" width="26px" src="https://ammarz.org/wp-content/uploads/2022/03/roblox.png" />
+<img align="left" alt="Roblox" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Roblox_icon_-_2017.svg/1280px-Roblox_icon_-_2017.svg.png" />
 <img align="left" alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/youtube.png" />
 <img align="left" alt="Spotify" width="26px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/spotify.png" />
 <img align="left" alt="Udemy" width="13px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/udemy.png" />
@@ -55,6 +55,6 @@
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />](https://www.linkedin.com/in/nohelia-agudelo-cuervo-64236b32b/)
 
-[<img align="left" alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/telegram.png" />](https://t.me/nohelia1112)
+ <!-- [<img align="left" alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/telegram.png" />](https://t.me/nohelia1112) -->
 
 <br />
